@@ -4,7 +4,6 @@ A responsive and customizable password generator built using JavaScript, React, 
 
 ## 🚀 Features
 - Adjustable password length
-## Option to include:
 - Uppercase letters
 - Lowercase letters
 - Numbers
